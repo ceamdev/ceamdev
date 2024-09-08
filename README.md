@@ -15,6 +15,12 @@
 <b>Requieres mis servicios: </b>
 <img src="https://raw.githubusercontent.com/ceamdev/ceamdev/main/3%20-%20LCDO%20CARLOS%20ASUTIDILLO%20-%20CEAMDEV%20ACADEMY.png"/>
 <hr>
+<b>Cursos y Talleres PAP.</b>
+<img src="https://raw.githubusercontent.com/ceamdev/ceamdev/main/2%20-%20LCDO%20CARLOS%20ASUTIDILLO%20-%20CEAMDEV%20ACADEMY.png">
+<hr>
+<b>Cursos y Talleres PAG.</b>
+<img src="https://raw.githubusercontent.com/ceamdev/ceamdev/main/3%20-%20LCDO%20CARLOS%20ASUTIDILLO%20-%20CEAMDEV%20ACADEMY.png">
+<hr>
 <b>Agenda un reunión.</b>
 <a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ0mi9Rju_p9U57B-qhjN6FX-0GHz5T8qSpMPO0="><img src="https://raw.githubusercontent.com/ceamdev/ceamdev/main/4%20-%20LCDO%20CARLOS%20ASUTIDILLO%20-%20CEAMDEV%20ACADEMY.png"/></a>
 <p aling="center"><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ0mi9Rju_p9U57B-qhjN6FX-0GHz5T8qSpMPO0=">¡AGENDAR AHORA!</a> | <a href="https://raw.githubusercontent.com/ceamdev/ceamdev/main/LCDO CARLOS ASUTIDILLO - CEAMDEV ACADEMY.pdf">!DESCARGAR ESTE CV RESUMEN!</a></p>
